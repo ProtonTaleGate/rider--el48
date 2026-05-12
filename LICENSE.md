@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains Rider for PC | JetBrains Rider for Windows with best JetBrains Rider for PC | JetBrains Rider for Windows Snippet | docker-support + code-formatting, the #1
 
 
 
